@@ -1,5 +1,5 @@
-cmake_minimum_required(VERSION 3.13)
-project(pythagorean CXX)
+cmake_minimum_required(VERSION 3.11)
+project(pythagorean-demo CXX)
 
 find_package(xtensor CONFIG REQUIRED)
 find_package(xsimd CONFIG REQUIRED)
